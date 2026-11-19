@@ -1,0 +1,2 @@
+# Capacità del veicolo
+
